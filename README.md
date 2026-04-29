@@ -1,17 +1,17 @@
-# # 📊 Excel Data Cleaning & Dashboard Project
+# 📊 Excel Data Cleaning & Dashboard Project
 
 ## 📌 Project Overview
-This project focuses on cleaning raw data, performing analysis using pivot tables, and creating visual dashboards to generate meaningful insights. The goal was to transform messy data into a structured format and present key trends using charts and visualizations.
+This project demonstrates the end-to-end data analysis process using Microsoft Excel. The dataset was cleaned, analyzed using pivot tables, and visualized through charts and an interactive dashboard. The goal was to transform raw sales data into structured information and generate insights about customer bike purchases.
 
 ---
 
 ## 🎯 Project Objectives
-- Clean and organize raw dataset
-- Handle missing values and duplicates
-- Create pivot tables for data analysis
-- Generate charts and graphs
+- Clean and organize raw sales dataset
+- Handle missing values and remove duplicates
+- Create pivot tables for structured analysis
+- Generate charts and visual insights
 - Build an interactive dashboard
-- Extract meaningful business insights
+- Identify patterns in customer purchasing behavior
 
 ---
 
@@ -26,8 +26,13 @@ This project focuses on cleaning raw data, performing analysis using pivot table
 ---
 
 ## 📂 Dataset Information
-The dataset used in this project contains information related to:
-Sales transactions
+The dataset contains **customer bike purchase data**, including:
+
+- Customer Age
+- Income
+- Commute Distance
+- Purchase Status
+- Demographic Information
 
 ---
 
@@ -37,58 +42,69 @@ The following cleaning steps were performed:
 - Removed duplicate records
 - Handled missing values
 - Standardized column formats
-- Corrected data inconsistencies
+- Created age brackets
+- Corrected inconsistent entries
 - Renamed columns for clarity
-- Converted data types where necessary
 
 ---
 
 ## 📊 Data Analysis
 Pivot tables were created to analyze:
 
-- Avg income per purchase 
-- customer commute bike purchase 
-- Age bracket per bike purchase 
+- **Average Income per Bike Purchase**
+- **Customer Commute Distance vs Bike Purchase**
+- **Age Bracket Distribution per Bike Purchase**
 
 Charts created include:
 
-- Column charts
-- Line charts
+- Column Charts
+- Line Charts
+- Pivot-Based Visualizations
 
 ---
 
 ## 📈 Dashboard Features
 The final dashboard includes:
 
-- Summary KPIs
-- Category-wise analysis
-- Trend visualization
-- Interactive pivot charts
-- Clean and easy-to-read layout
+- Customer purchase summary
+- Income-based analysis
+- Age group comparison
+- Commute distance insights
+- Clear and interactive visual layout
+
+---
+
+## 🔍 Key Insights
+Some insights discovered from the analysis:
+
+- Customers with higher income levels showed a greater likelihood of purchasing bikes.
+- Middle-aged customers contributed significantly to total purchases.
+- Commute distance influenced customer purchase decisions.
 
 ---
 
 ## 📸 Dashboard Preview
-Example:
 
-(dashboard.png)
+Example:
+![Dashboard](dashboard.png)
 
 ---
 
-## 📁 Project Files
-- Raw Dataset
-- Cleaned Dataset
+## 📁 Project File
+This project contains **one Excel workbook** with multiple sheets:
+
+- Raw Data
+- Cleaned Data
 - Pivot Tables
-- Charts
-- Final Dashboard
+- Dashboard
 
 ---
 
 ## 🚀 How to Use
 1. Download the Excel file
 2. Open using Microsoft Excel
-3. Navigate through pivot tables and dashboard
-4. Explore charts and insights
+3. Navigate through the sheets
+4. Explore pivot tables and dashboard visuals
 
 ---
 
@@ -103,4 +119,4 @@ Example:
 ---
 
 ## 👤 Author
-Asani David 
+**Asani David**
