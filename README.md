@@ -70,6 +70,7 @@ The final dashboard includes:
 
 ## 📸 Dashboard Preview
 Example:
+
 (dashboard.png)
 
 ---
